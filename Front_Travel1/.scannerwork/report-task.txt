@@ -1,0 +1,7 @@
+organization=reacttsest
+projectKey=reacttsest_traveltest
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.51767
+dashboardUrl=https://sonarcloud.io/dashboard?id=reacttsest_traveltest
+ceTaskId=AYzA0uT2w9aIP1mwWZ-K
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYzA0uT2w9aIP1mwWZ-K
